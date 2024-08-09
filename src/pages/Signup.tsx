@@ -1,4 +1,4 @@
-import { Link, useNavigate } from "react-router-dom";
+import {useNavigate } from "react-router-dom";
 import AppBar from "../components/AppBar";
 import Footer from "../components/Footer";
 
